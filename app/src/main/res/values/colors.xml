@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+
+    //primary color
+    <color name="white">#FFFFFFFF</color>
+    //Accent color
+    <color name="greenblue">#1DB7AE</color>
+    //Secondary color
+    <color name="lightblue">#FFC0F6F3</color>
+
+    <color name="grey">#919191</color>
+    <color name="lightgrey">#E6E5E5</color>
+</resources>

@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">RentSpot</string>
+
+    <string name="tvnamegetstarted">RentSpot</string>
+    <string name="btngetstarted">Get Started</string>
+
+    <string name="tvloginsgn">Welcome to RentSpot</string>
+    <string name="hntpass">Password</string>
+    <string name="hntname">Your Name</string>
+    <string name="hntrepass">Re-Password</string>
+    <string name="hntemail">Your Email</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="tvLogin">Login to Your Account</string>
+    <string name="tvSignup">SignUp</string>
+    <string name="btnSignup">SignUp</string>
+    <string name="tvPicklocation">Pick a location to find your rentspot</string>
+    <string name="btnGoogleSign">Continue with google</string>
+    <string name="tv2">------------------------------------ or ------------------------------------</string>
+    <string name="tvRentannextop">Annexes for rent</string>
+    <string name="tvhmepgedes">Annex for rent in Malabe
+        colombo
+       --- beds 2 | baths 1
+    </string>
+    <string name="tvpricehome">Rs 15000/month</string>
+    <string name="tvhmepgedes2">Annex for rent in Colombo
+        Pettah--- beds 1 | baths 1</string>
+    <string name="tvprice2home">Rs 16000/month</string>
+    <string name="tvhmepgedes3">Annex for rent in Kandy
+        Ampitiya--- beds 1 | baths 1</string>
+    <string name="tvprice3home">Rs.20000/month</string>
+    <string name="tvRentboardingtop">Boardings for rent</string>
+    <string name="tvboarding1">Boarding room for rent Boys colombo5</string>
+    <string name="tvboarding1price">Rs.10000/month</string>
+    <string name="tvboarding2">Boarding room for rent Boys Kandy</string>
+    <string name="tvboarding2price">Rs 12000/month</string>
+    <string name="tvboarding3">Boarding room for rent in Maabe Thalahena</string>
+    <string name="tvboarding3price">Rs.12000/month</string>
+
+    <string name="tvDes">Annex for rent in Malabe road-Pittugala in a calm and quite surrounding.
+        1rooms, 1 batroom, living room, kitchen, pantry area.
+        2 beds are available.
+        24/7 security with cctv.
+        15000 rupees for a month.
+        500m to Main road.
+        close to SLIIT
+        mobile number-072-xxxxxxx</string>
+    <string name="tvdes">Description</string>
+    <string name="btncall">Call</string>
+    <string name="tvpostad">Post an ad</string>
+    <string name="btnannexpstad">Annexes</string>
+    <string name="btnboardingpstad">Boardings</string>
+    <string name="tvpostaddwelcome">Welcome Kasun Perera!</string>
+    <string name="tvpostad2">Choose an option below to post an ad</string>
+    <string name="tvpostadlocation">Location</string>
+    <string name="tvpostad3">Where are you renting this?</string>
+    <string name="btnloction">Location</string>
+    <string name="hntdes">Add a description</string>
+    <string name="hntphone">phone number</string>
+    <string name="hntprice">price</string>
+    <string name="tvaddphotos">add photos</string>
+    <string name="tvbookmark">Bookmarks</string>
+    <string name="btnannex">Annexes</string>
+    <string name="btnboarding">Boardings</string>
+
+    <string name="tvprfname">Kasun Perera</string>
+    <string name="tvproemail">Kasunperera@gmail.com</string>
+    <string name="btnnotofication">Notifications</string>
+    <string name="btnsettings">Settings</string>
+    <string name="tvdetailsname">Name :  Kasun Perera</string>
+    <string name="tvdetailstell">phone :  071xxxxxxx</string>
+    <string name="tvdetailsaddress">Name :  Kandy</string>
+    <string name="btndetailsedit">Edit details</string>
+    <string name="tvwelcomeback">Welcome back</string>
+    <string name="btnproflogout">Logout</string>
+
+    <string name="tvlocationtopic">Pick a location</string>
+    <string name="btnsearchloc">Use current location</string>
+    <string name="tvlocation">Or select a location</string>
+    <string name="btnlocation1">Kandy</string>
+    <string name="btnlocation2">Colombo</string>
+    <string name="btnlocation3">Galle</string>
+    <string name="btnlocation4">Anuradhapura</string>
+    <string name="btnlocation5">Ampara</string>
+</resources>
